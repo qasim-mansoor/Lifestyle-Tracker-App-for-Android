@@ -1,3 +1,3 @@
-# flutter_application_4
+# Lifestyle Tracker App for Android
 
-A new Flutter project.
+An application made in flutter to track things like expenses and times spent on hobbies for the android system.
